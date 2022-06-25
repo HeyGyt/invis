@@ -152,4 +152,3 @@ game:GetService("UserInputService").InputBegan:Connect(
           end
       end
   end
-)
